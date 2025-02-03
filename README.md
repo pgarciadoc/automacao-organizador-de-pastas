@@ -1,9 +1,9 @@
 
 # 🗄️ Organizador de pastas - File Organizer
 
-O projeto possui como objetivo organizar pastas. A ideia surgiu da necessidade de colocar todos os arquivos que foram "jogados" em uma pasta dentro de sub pastas. A aplicação oferece a possibilidade do usuário selecionar uma pasta desorganizada através de uma interface gráfica, e logo em seguida o usuário pode clicar em "Organize", para o programa separar os arquivos com base nas extensões predefinidas no código em subpastas com nomes de acordo com os tipos de arquivos. (exemplo: arquivos .pdf dentro de uma pasta denominada "PDFs", arquivos .png, .jpeg dentro de uma pasta chamada "Imagens").
+O objetivo deste projeto é organizar pastas de arquivos. A ideia surgiu da necessidade de organizar todos os arquivos que estavam "jogados" em uma única pasta, distribuindo-os em subpastas. A aplicação permite ao usuário selecionar uma pasta desorganizada por meio de uma interface gráfica. Em seguida, o usuário pode clicar em "Organizar" para que o programa separe os arquivos com base nas extensões predefinidas no código, criando subpastas nomeadas de acordo com os tipos de arquivos (por exemplo, arquivos .pdf em uma pasta denominada "PDFs", arquivos .png e .jpeg em uma pasta chamada "Imagens").
 
-Este é o meu primeiro projeto executado na área de automações e também é meu primeiro projeto utilizando a linguagem Python. Acredito que muita coisa pode melhorar, como o acréscimo de mais tipos de arquivos que possam ser manipulados pela aplicação e tornar a interface gráfica responsiva. Mas acredito que foi um bom começo, pois pude aprender tecnologias e conceitos novos.
+Este é o meu primeiro projeto na área de automações e também o meu primeiro projeto utilizando a linguagem Python. Acredito que há muito a melhorar, como o acréscimo de mais tipos de arquivos que possam ser manipulados pela aplicação e a criação de uma interface gráfica responsiva. No entanto, considero que foi um bom começo, pois pude aprender novas tecnologias e conceitos.
 
 ## 🤖 Tecnologias usadas 💡
 
@@ -17,7 +17,10 @@ Este é o meu primeiro projeto executado na área de automações e também é m
 - 4º Desenvolvimento da interface gráfica;
 - 5º Muitos ajustes;
 - 6º Criação do arquivo executável;
-- 7º Sair para comemorar. 
+- 7º Sair para comemorar.
+
+## Demonstração do projeto
+Vídeo: https://youtu.be/vCVtEPyu5D8
 
 # 💻 Projeto desenvolvido por:
 - [Pedro Garcia](https://github.com/pgarciadoc)
